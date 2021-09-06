@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg_tile_0">
-  <path
-     style="fill:black;fill-opacity:1;stroke:none"
-     d="M 0,0 H 16 V 16 H 0 Z"
-     id="tile_bg" />
-  <path
-     style="fill:white;fill-opacity:1;stroke:none"
-     d="M 8,8 H 16 V 16 H 8 Z"
-     id="tile_fg" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg_tile_0" width="16" height="16" version="1.1" viewBox="0 0 16 16"><path style="fill:#000;fill-opacity:1;stroke:none" id="tile_bg" d="M 0,0 H 16 V 16 H 0 Z"/><path style="fill:#fff;fill-opacity:1;stroke:none" id="tile_fg" d="M 8,8 H 16 V 16 H 8 Z"/></svg>
